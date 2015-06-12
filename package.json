@@ -1,0 +1,19 @@
+{
+  "name": "socket-server",
+  "version": "1.0.0",
+  "description": "web socket server",
+  "scripts": {
+    "start": "./node_modules/babel/bin/babel-node ./socket-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fshuto/node-socket-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fshuto/node-socket-server/issues"
+  },
+  "homepage": "https://github.com/fshuto/node-socket-server#readme",
+  "devDependencies": {
+    "babel": "^5.5.6"
+  }
+}

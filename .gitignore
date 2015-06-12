@@ -1,0 +1,14 @@
+# system
+.DS_Store
+
+# ide
+/nbproject/
+.idea
+
+# node
+node_modules
+
+# app
+*.log
+
+!.gitkeep

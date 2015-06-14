@@ -1,0 +1,11 @@
+{
+  "server": {
+    "port": 8080,
+    "address": "127.0.0.1",
+    "maxConnectionNumber": 3
+  },
+  "client": {
+    "timeoutMillisec": 1000,
+    "maxDataSendCount": 5
+  }
+}
